@@ -1,5 +1,5 @@
 import React from 'react';
-import rykidoLogo from '../../assets/img/Rykido1.png';
+import rykidoLogo from '../../assets/img/RykidoLogo.png';
 
 class Navbar extends React.PureComponent {
   componentDidMount() {

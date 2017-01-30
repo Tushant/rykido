@@ -1,5 +1,5 @@
 import React from 'react';
-import rykidoLogo from '../../assets/img/Rykido1.png';
+import rykidoLogo from '../../assets/img/RykidoLogo.png';
 
 function Header() {
   return (
@@ -7,10 +7,10 @@ function Header() {
       <div className="container">
         <div className="row header-info">
           <div className="col-sm-10 col-sm-offset-1 text-center">
-            <h1 className="wow fadeIn">Create offers and Marketing Campaigns That Deliver <br />
-            Customers to your Door-Literally</h1>
+            <h1 className="wow fadeIn">Create Offers and Marketing Campaigns That Deliver <br />
+            Customers To Your Door-Literally</h1>
             <br />
-            <p className="lead wow fadeIn" data-wow-delay="0.5s">Get your message in front of thousands of commuters <br />
+            <p className="lead wow fadeIn" data-wow-delay="0.5s">Get your message in front of thousands of commuters and riders <br />
               every day. Get the people who matter to interact with your brand.
             </p>
             <br />

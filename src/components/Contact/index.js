@@ -8,7 +8,7 @@ class Contact extends React.Component {
           <div className="row">
             <div className="col-sm-8 col-sm-offset-2 text-center">
               <i className="fa fa-envelope-o margin-40"></i>
-              <h2 className="white">Contact us</h2>
+              <h2 className="white">Contact Us</h2>
               <br />
               <div className="row">
                 <div className="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">

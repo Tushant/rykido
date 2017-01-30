@@ -202,6 +202,12 @@ button[type="submit"] {
     transition: top 0.4s ease 0s;
 }
 
+.navbar-right {
+    float: right!important;
+    margin-top: 30px;
+    margin-right: -15px;
+}
+
 .navbar.open {
   background: #211f1f;
 }
@@ -243,7 +249,7 @@ button[type="submit"] {
    Main styles
    ========================================================================== */
 header {
-  background: linear-gradient(to bottom, rgba(186, 26, 26, 0.65) 0%, rgba(233, 103, 103, 0.19) 59%, #4d1d1d 100%), url(../img/bg1.jpg) no-repeat center center;
+  background: linear-gradient(to bottom, rgba(186, 26, 26, 0.16) 0%, rgba(233, 103, 103, 0.13) 59%, rgba(77, 29, 29, 0.51) 100%), url(../img/bg1.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -270,7 +276,7 @@ header {
 
 .pad-lg {
 	padding: 50px 0px;
-  background: #211f1f;
+  background: #363636;
 }
 
 .pad-sm {

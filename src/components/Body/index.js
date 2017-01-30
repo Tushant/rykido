@@ -13,7 +13,7 @@ function Body() {
           <div className="col-sm-12 col-xs-12 col-md-4">
               <i className="fa fa-usd fa-4x fa-stack-4x" />
             <h2>Pay when you see results.</h2>
-            <p>Say goodbye to shady marketing platforms that make it hard for you to track your ROI. Rykido’s easy to read metrics and accurate reporting ensure you get bang for every buck you spend.</p>
+            <p>Say goodbye to shady marketing platforms that make it hard for you to track your ROI. Rykido’s easy-to-read metrics and accurate reporting ensure you get bang for every buck you spend.</p>
           </div>
           <div className="col-sm-12 col-xs-12 col-md-4">
             <i className="fa fa-address-card-o fa-4x" />
