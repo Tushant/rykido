@@ -249,7 +249,7 @@ button[type="submit"] {
    Main styles
    ========================================================================== */
 header {
-  background: linear-gradient(to bottom, rgba(186, 26, 26, 0.16) 0%, rgba(233, 103, 103, 0.13) 59%, rgba(77, 29, 29, 0.51) 100%), url(../img/bg1.jpg) no-repeat center center;
+  background: linear-gradient(to bottom, rgba(186, 26, 26, 0.16) 0%, rgba(233, 103, 103, 0.13) 59%, rgba(77, 29, 29, 0.51) 100%), url(../img/bg2.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
