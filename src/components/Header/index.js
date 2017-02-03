@@ -14,7 +14,7 @@ function Header() {
               every day. Get the people who matter to interact with your brand.
             </p>
             <br />
-            <p className="lead wow fadeIn" data-wow-delay="0.5s">Our platform connects you with the most talented drivers in your
+            <p className="lead wow fadeIn" data-wow-delay="0.5s">Rykido connects you with the most talented drivers in your
               area – it’s <br />fast, easy, and profitable. Get started.
             </p>
             <br />
